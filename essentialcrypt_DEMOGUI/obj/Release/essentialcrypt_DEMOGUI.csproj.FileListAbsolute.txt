@@ -1,0 +1,14 @@
+D:\gits\essentialcrypt\essentialcrypt_DEMOGUI\bin\Release\essentialcrypt_DEMOGUI.exe.config
+D:\gits\essentialcrypt\essentialcrypt_DEMOGUI\bin\Release\essentialcrypt_DEMOGUI.exe
+D:\gits\essentialcrypt\essentialcrypt_DEMOGUI\bin\Release\essentialcrypt_DEMOGUI.pdb
+D:\gits\essentialcrypt\essentialcrypt_DEMOGUI\obj\Release\essentialcrypt_DEMOGUI.csprojResolveAssemblyReference.cache
+D:\gits\essentialcrypt\essentialcrypt_DEMOGUI\obj\Release\essentialcrypt_DEMOGUI.Properties.Resources.resources
+D:\gits\essentialcrypt\essentialcrypt_DEMOGUI\obj\Release\essentialcrypt_DEMOGUI.csproj.GenerateResource.Cache
+D:\gits\essentialcrypt\essentialcrypt_DEMOGUI\obj\Release\essentialcrypt_DEMOGUI.exe
+D:\gits\essentialcrypt\essentialcrypt_DEMOGUI\obj\Release\essentialcrypt_DEMOGUI.pdb
+D:\gits\essentialcrypt\essentialcrypt_DEMOGUI\bin\Release\essentialcrypt.dll
+D:\gits\essentialcrypt\essentialcrypt_DEMOGUI\bin\Release\essentialcrypt.pdb
+D:\gits\essentialcrypt\build\essentialcrypt_DEMOGUI.exe.config
+D:\gits\essentialcrypt\build\essentialcrypt_DEMOGUI.exe
+D:\gits\essentialcrypt\build\essentialcrypt_DEMOGUI.pdb
+D:\gits\essentialcrypt\essentialcrypt_DEMOGUI\obj\Release\essentialcrypt_DEMOGUI.frmMain.resources

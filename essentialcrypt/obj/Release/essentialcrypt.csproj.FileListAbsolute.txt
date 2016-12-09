@@ -1,0 +1,6 @@
+D:\gits\essentialcrypt\essentialcrypt\bin\Release\essentialcrypt.dll
+D:\gits\essentialcrypt\essentialcrypt\bin\Release\essentialcrypt.pdb
+D:\gits\essentialcrypt\essentialcrypt\obj\Release\essentialcrypt.dll
+D:\gits\essentialcrypt\essentialcrypt\obj\Release\essentialcrypt.pdb
+D:\gits\essentialcrypt\build\essentialcrypt.dll
+D:\gits\essentialcrypt\build\essentialcrypt.pdb
